@@ -26,11 +26,12 @@ ex)[BOJ]_20230220_11066
 삼성SW - SSA
 COSpro - COP
 기타 - ETC
-- Commit 규칙
-- 문제 하나당 1 Commit.
 
+3) Commit 규칙
+- 문제 하나당 1 Commit.
 - Commit message : “[출처] 문제번호/ 난이도/실행시간 “
 * Terminal Example : git commit -m “[BOJ]11066/gold3/1s”
-- Pull Request 규칙
+
+4) Pull Request 규칙
 Pull Request 제목 : 이름 / 주차 / 문제이름
 ex) hyeonguk.choi / 2월 4주차 / 파일합치기
