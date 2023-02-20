@@ -9,7 +9,8 @@
 
 2) 진행 사이클
 
-- Original Repository → 내 저장소로 Fork → 코드 작성 → Pull reques 
+- Original Repository → 내 저장소로 Fork → 코드 작성 → Pull request
+(커맨드 : Branch 생성 → clone → checkout → add → commit → push → pull request)
 - fork 시 저장소/폴더 이름은 “FirstName.LastName”로 한다. ex) hyeonguk.choi
 
 - 자기 폴더에 문제 하나당 “[출처]_문제선택한날짜_백준문제번호”으로 생성한다. 
