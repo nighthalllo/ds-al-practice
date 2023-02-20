@@ -20,11 +20,11 @@ ex)[BOJ]_20230220_11066
 - 소스코드명은 자유롭게 사용 가능하다. (단, 폴더와 소스코드파일명에 “:” (콜론) 사용금지)
 
 - [출처 Code]
-백준 - BOJ
-프로그래머스 - POS
-리트코드 - LTC
-삼성SW - SSA
-COSpro - COP
+백준 - BOJ, 
+프로그래머스 - POS, 
+리트코드 - LTC, 
+삼성SW - SSA, 
+COSpro - COP, 
 기타 - ETC
 
 3) Commit 규칙
