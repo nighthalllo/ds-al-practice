@@ -10,9 +10,9 @@
 2) 진행 사이클
 
 - Original Repository → 내 저장소로 Fork → 코드 작성 → Pull reques 
-- fork 시 저장 소 이름은 **“FirstName.LastName”**로 한다. ex) hyeonguk.choi
+- fork 시 저장 소 이름은 “FirstName.LastName”로 한다. ex) hyeonguk.choi
 
-- 자기 폴더에 문제 하나당 **“[출처]_문제선택한날짜_백준문제번호”**으로 생성한다. 
+- 자기 폴더에 문제 하나당 “[출처]_문제선택한날짜_백준문제번호”으로 생성한다. 
 ex)[BOJ]_20230220_11066
 
 - 문제 폴더 내에는 문제풀이를 글로 설명하는 README.md와 소스코드를 올린다.
