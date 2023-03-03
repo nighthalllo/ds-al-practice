@@ -1,6 +1,9 @@
 import sys
 
 def solution(last_, max_) :
+    #last = 팔굽혀 펴기를 한 누적 회수
+    #max = 얻은 점수
+
     if last_ == N :
         return max_
 
@@ -24,8 +27,11 @@ if __name__ == "__main__" :
         N, M = map(int, sys.stdin.readline().split())
         scores = list(map(int, sys.stdin.readline().split()))
 
-        dp = [[-1 for _ in range(101)] for _ in range(N + 1)]
+        dp = [[-1 for _ in range(451)] for _ in range(N + 1)]
 
         answer = solution(0, 0)
 
         print(answer if answer > 0 else -1)
+
+        for i in dp :
+            print(i)
